@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "451684759721",
+    "firebase_url": "https://saa10-d6eff.firebaseio.com",
+    "project_id": "saa10-d6eff",
+    "storage_bucket": "saa10-d6eff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451684759721:android:25894f8e03f6075c",
+        "android_client_info": {
+          "package_name": "com.example.asus.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451684759721-eic6d9kjd5ah5i55ut4so18vt3vh4ae5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBchUFXR7YvvCqBkcOFKiOU4RKR8Mhg7jQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
